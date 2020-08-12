@@ -8,7 +8,7 @@
   <img align="left" alt="Aniruddha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
- <a href="shoyabsyed4m3.github.io"> My portfolio : shoyabsyed4m3.github.io </a> 
+ <a href="shoyabsyed4m3.github.io" align="left" > My portfolio : shoyabsyed4m3.github.io </a> 
 <br />
 <br />
 
