@@ -8,6 +8,8 @@
   <img align="left" alt="Aniruddha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+ &nbsp&nbsp;&nbsp;  <a href="shoyabsyed4m3.github.io"  align="left"> My portfolio : shoyabsyed4m3.github.io </a> 
+<br />
 <br />
 
 Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
@@ -15,7 +17,7 @@ Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and we
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img align="right" height="350px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
 **Talking about Education/Skills:**
@@ -37,23 +39,23 @@ Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and we
 
 :pushpin: Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
 
-💻 Recent projects in which I have contributed in my [gituhb](https://github.com/Shoyabsyed4m3/Shoyabsyed4m3/)
+💻 Recent projects in which I have contributed in my [gituhb](https://github.com/Shoyabsyed4m3/)
 
 
-<a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=Stock-Market-Analysis" />
+<a href="https://github.com/Shoyabsyed4m3/FaceMask-Detection">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shoyabsyed4m3&repo=FaceMask-Detection" />
 </a>
 
-<a href="https://github.com/aniruddhachoudhury/BERT-Tutorials">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=BERT-Tutorials" />
+<a href="https://github.com/Shoyabsyed4m3/Sentiment-Analysis-Youtube-comments">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shoyabsyed4m3&repo=Sentiment-Analysis-Youtube-comments" />
 </a>
 
-<a href="https://github.com/kubeflow/kubeflow">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=kubeflow" />
+<a href="https://github.com/Shoyabsyed4m3/Student_performance_prediction-internship-project">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shoyabsyed4m3&repo=Student_performance_prediction-internship-project" />
 </a>
 
-<a href="https://github.com/aniruddhachoudhury/Data-Science-Books">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=Data-Science-Books" />
+<a href="https://github.com/Shoyabsyed4m3/Machinelearning-coursera-IBM">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shoyabsyed4m3&repo=Machinelearning-coursera-IBM" />
 </a>
 
 
