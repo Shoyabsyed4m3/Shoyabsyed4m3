@@ -17,7 +17,7 @@ Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and we
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" height="320px" width= "350px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
 **Talking about Education/Skills:**
