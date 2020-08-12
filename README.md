@@ -8,7 +8,7 @@
   <img align="left" alt="Aniruddha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
- <a href="shoyabsyed4m3.github.io"  align="left"> My portfolio : shoyabsyed4m3.github.io </a> 
+ <a href="shoyabsyed4m3.github.io"> My portfolio : shoyabsyed4m3.github.io </a> 
 <br />
 <br />
 
@@ -17,7 +17,7 @@ Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and we
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" height="350px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img align="right" height="330px" width= "350px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
 **Talking about Education/Skills:**
