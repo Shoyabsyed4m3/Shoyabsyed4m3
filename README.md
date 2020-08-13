@@ -35,7 +35,7 @@ Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and we
 &nbsp;
 
 
-![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=shoyabsyed4m3&show_icons=true&hide_border=true)
+![shoyab's github stats](https://github-readme-stats.vercel.app/api?username=shoyabsyed4m3&show_icons=true&hide_border=true)
 
 :pushpin: Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
 
