@@ -27,7 +27,7 @@ Hi, I'm Syed Shoyab,a passionate Ece student Enthusiastic in Data science and we
 -  Machine Learning and Deep Learning
 -  Html, CSS, Java Script, Django
 -  SQL
--  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
+-  libraries: jQuery,Bootstrap,Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sayedshoyab1333@gmail.com
